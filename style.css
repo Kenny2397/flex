@@ -33,7 +33,7 @@
 }
 #advertisement {
     height: 120px;
-    width: 675px;
+    width: 660px;
     background-color: purple;
     padding: 0px;
     margin-left: 30px;
@@ -41,7 +41,7 @@
 }
 .row{
     display:flex;
-    padding:0px;
+    padding:10px;
 
 }
 .row1 {
